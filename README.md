@@ -14,11 +14,6 @@ Reusable NestJS starter for production-oriented SaaS and client backends.
 - Health module for deployment and smoke checks
 - Optional OpenAI config hook without any enabled AI workflow
 
-## Removed Domain Logic
-
-This template intentionally contains no product-specific modules, entities,
-seed data, workflows, scheduled jobs, or client-specific integrations.
-
 ## Setup
 
 ```bash
